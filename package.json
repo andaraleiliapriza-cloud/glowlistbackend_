@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/andaraleiliapriza-cloud/glowlistbackend_#readme",
   "dependencies": {
+    "cors": "^2.8.6",
     "express": "^5.2.1",
     "mysql2": "^3.23.2"
   }
